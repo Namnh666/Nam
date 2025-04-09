@@ -1,0 +1,3 @@
+MA01,Cà phê sữa,25000,LM01
+MA02,Phở bò,45000,LM02
+MA03,Chè đậu xanh,20000,LM03
